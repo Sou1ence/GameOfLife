@@ -377,33 +377,42 @@ We welcome contributions for:
 
 ---
 
-## 🎨 Color Palette
 
-### Primary Colors
-![#ca7b5d](https://via.placeholder.com/20/ca7b5d/000000?text=+) `#ca7b5d` - Live Cell Primary  
-![#d4855f](https://via.placeholder.com/20/d4855f/000000?text=+) `#d4855f` - Live Cell Highlight  
-![#f0986e](https://via.placeholder.com/20/f0986e/000000?text=+) `#f0986e` - Button Gradient Start  
-![#cd7350](https://via.placeholder.com/20/cd7350/000000?text=+) `#cd7350` - Button Gradient End  
+### 🎨 Full Color Palette Visualization
 
-### Background Colors
-![#1e1e1e](https://via.placeholder.com/20/1e1e1e/000000?text=+) `#1e1e1e` - Root Background  
-![#2c2c2a](https://via.placeholder.com/20/2c2c2a/000000?text=+) `#2c2c2a` - Dead Cell/Board Background  
-![#2a2a2a](https://via.placeholder.com/20/2a2a2a/000000?text=+) `#2a2a2a` - Control Panel Background  
-![#2e2e2c](https://via.placeholder.com/20/2e2e2c/000000?text=+) `#2e2e2c` - Secondary Button Background  
+#### Live Cell Colors
 
-### Text Colors
-![#b0ada8](https://via.placeholder.com/20/b0ada8/000000?text=+) `#b0ada8` - Primary Text  
-![#fffaf4](https://via.placeholder.com/20/fffaf4/000000?text=+) `#fffaf4` - Button Text/Highlights  
-![#c7b9ff](https://via.placeholder.com/20/c7b9ff/000000?text=+) `#c7b9ff` - Generation Counter  
-![#e2e0dc](https://via.placeholder.com/20/e2e0dc/000000?text=+) `#e2e0dc` - Section Labels  
+* ![#ca7b5d](https://placehold.co/15x15/ca7b5d/ca7b5d.png) `#ca7b5d` – Live Cell Primary
+* ![#d4855f](https://placehold.co/15x15/d4855f/d4855f.png) `#d4855f` – Live Cell Highlight
 
-### Utility Colors
-![#4f4f4c](https://via.placeholder.com/20/4f4f4c/000000?text=+) `#4f4f4c` - Grid Lines  
-![#989690](https://via.placeholder.com/20/989690/000000?text=+) `#989690` - Speed Label  
-![#71716e](https://via.placeholder.com/20/71716e/000000?text=+) `#71716e` - Help Text  
-![#ff6b6b](https://via.placeholder.com/20/ff6b6b/000000?text=+) `#ff6b6b` - Error Border  
+#### Button Gradient
+
+* ![#f0986e](https://placehold.co/15x15/f0986e/f0986e.png) `#f0986e` – Button Gradient Start
+* ![#cd7350](https://placehold.co/15x15/cd7350/cd7350.png) `#cd7350` – Button Gradient End
+
+#### Background Colors
+
+* ![#1e1e1e](https://placehold.co/15x15/1e1e1e/1e1e1e.png) `#1e1e1e` – Root Background
+* ![#2c2c2a](https://placehold.co/15x15/2c2c2a/2c2c2a.png) `#2c2c2a` – Dead Cell / Board Background
+* ![#2a2a2a](https://placehold.co/15x15/2a2a2a/2a2a2a.png) `#2a2a2a` – Control Panel Background
+* ![#2e2e2c](https://placehold.co/15x15/2e2e2c/2e2e2c.png) `#2e2e2c` – Secondary Button Background
+
+#### Text Colors
+
+* ![#b0ada8](https://placehold.co/15x15/b0ada8/b0ada8.png) `#b0ada8` – Primary Text
+* ![#fffaf4](https://placehold.co/15x15/fffaf4/fffaf4.png) `#fffaf4` – Button Text / Highlights
+* ![#c7b9ff](https://placehold.co/15x15/c7b9ff/c7b9ff.png) `#c7b9ff` – Generation Counter
+* ![#e2e0dc](https://placehold.co/15x15/e2e0dc/e2e0dc.png) `#e2e0dc` – Section Labels
+
+#### Utility Colors
+
+* ![#4f4f4c](https://placehold.co/15x15/4f4f4c/4f4f4c.png) `#4f4f4c` – Grid Lines
+* ![#989690](https://placehold.co/15x15/989690/989690.png) `#989690` – Speed Label
+* ![#71716e](https://placehold.co/15x15/71716e/71716e.png) `#71716e` – Help Text
+* ![#ff6b6b](https://placehold.co/15x15/ff6b6b/ff6b6b.png) `#ff6b6b` – Error Border
+ 
 
 ---
 
-*Built with ❤️ by Kostiantyn Feniuk*  
+*Built with ❤️ by Kostiantyn Feniuk (EraChim) * 
 *Powered by JavaFX | Modern Dark Theme | Professional Grade*
