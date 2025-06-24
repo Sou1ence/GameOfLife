@@ -3,21 +3,7 @@
 **A sophisticated JavaFX implementation of Conway's Game of Life with customizable rules and modern dark UI**
 ![Запись 2025-06-03 232319](https://github.com/user-attachments/assets/be631f7c-c1b3-4f2c-9c38-6d9b82a1dbed)
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technical Architecture](#technical-architecture)
-- [Installation & Setup](#installation--setup)
-- [User Guide](#user-guide)
-- [Customization](#customization)
-- [API Reference](#api-reference)
-- [Performance Considerations](#performance-considerations)
-- [Contributing](#contributing)
-- [Color Palette](#color-palette)
-
+ 
 ---
 
 ## 🌟 Overview
