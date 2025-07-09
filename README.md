@@ -1,4 +1,4 @@
-# 🎮 Cellular Automaton - Game of Life
+# Cellular Automaton - Game of Life
 
 **A sophisticated JavaFX implementation of Conway's Game of Life with customizable rules and modern dark UI**
 ![Запись 2025-06-03 232319](https://github.com/user-attachments/assets/be631f7c-c1b3-4f2c-9c38-6d9b82a1dbed)
@@ -6,7 +6,7 @@
  
 ---
 
-## 🌟 Overview
+## Overview
 
 This project is a feature-rich implementation of Conway's Game of Life, a zero-player game that simulates cellular evolution based on mathematical rules. The application goes beyond the classic implementation by offering:
 
@@ -25,9 +25,9 @@ This project is a feature-rich implementation of Conway's Game of Life, a zero-p
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎯 Core Functionality
+### Core Functionality
 
 | Feature | Description |
 |---------|-------------|
@@ -37,7 +37,7 @@ This project is a feature-rich implementation of Conway's Game of Life, a zero-p
 | **Pattern Library** | Pre-loaded with classic glider patterns |
 | **Generation Tracking** | Real-time generation counter with visual feedback |
 
-### 🎨 User Interface
+### User Interface
 
 - **Dark Theme**: Modern, eye-friendly color scheme
 - **Responsive Controls**: Intuitive button layout with visual state feedback
@@ -54,7 +54,7 @@ This project is a feature-rich implementation of Conway's Game of Life, a zero-p
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Project Structure
 
@@ -170,7 +170,7 @@ graph LR
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -209,7 +209,7 @@ src/
 
 ---
 
-## 📖 User Guide
+## User Guide
 
 ### Getting Started
 
@@ -245,7 +245,7 @@ Enter custom rules in the format: `survival/birth`
 
 ---
 
-## 🎨 Customization
+## Customization
 
 ### Modifying Visual Appearance
 
@@ -284,7 +284,7 @@ private void createCustomPattern(int startRow, int startCol) {
 
 ---
 
-## 📚 API Reference
+## API Reference
 
 ### Core Methods
 
@@ -321,7 +321,7 @@ Validates and parses rule string format.
 
 ---
 
-## ⚡ Performance Considerations
+## Performance Considerations
 
 ### Optimization Strategies
 
@@ -345,7 +345,7 @@ For larger boards (100×100+), consider:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 ### Development Guidelines
 
@@ -365,7 +365,7 @@ We welcome contributions for:
 ---
 
 
-### 🎨 Full Color Palette Visualization
+### Full Color Palette Visualization
 
 #### Live Cell Colors
 
@@ -401,5 +401,5 @@ We welcome contributions for:
 
 ---
 
-*Built with ❤️ by Kostiantyn Feniuk (EraChim) * 
-*Powered by JavaFX | Modern Dark Theme | Professional Grade*
+*Built by Kostiantyn Feniuk (EraChim) * 
+
